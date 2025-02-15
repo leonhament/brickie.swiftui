@@ -1,6 +1,7 @@
 
 > **Brickie is searching minifigs to help improve the app**. I'm currently not really available to improve the app by myself but I'm able to validate and checks PR. So if you love SwiftUI and bricks, feel **free to add your own touch to the app**! **All apps should be driven by users, make it yours!**
 Thanks to our awesome contributors! Always happy to receive bug fixes and features ❤️
+> App is now removed from app store.
 
 
 # Brickie: The BrickSet Companion for iOS
